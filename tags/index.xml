@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on John Doe · Landing Page</title>
-    <link>https://ekalavyastories.co.in/tags/</link>
-    <description>Recent content in Tags on John Doe · Landing Page</description>
+    <title>Tags on The ekalavya Stories</title>
+    <link>https://www.ekalavyastories.co.in/tags/</link>
+    <description>Recent content in Tags on The ekalavya Stories</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://ekalavyastories.co.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2017 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://www.ekalavyastories.co.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://www.ekalavyastories.co.in/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ekalavyastories.co.in/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML</title>
+      <link>https://www.ekalavyastories.co.in/tags/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ekalavyastories.co.in/tags/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HLD</title>
+      <link>https://www.ekalavyastories.co.in/tags/hld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ekalavyastories.co.in/tags/hld/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Design</title>
+      <link>https://www.ekalavyastories.co.in/tags/system-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ekalavyastories.co.in/tags/system-design/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

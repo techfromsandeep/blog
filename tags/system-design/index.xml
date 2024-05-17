@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The ekalavya Stories</title>
-    <link>https://www.ekalavyastories.co.in/</link>
-    <description>Recent content on The ekalavya Stories</description>
+    <title>System Design on The ekalavya Stories</title>
+    <link>https://www.ekalavyastories.co.in/tags/system-design/</link>
+    <description>Recent content in System Design on The ekalavya Stories</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2017 10:58:08 -0400</lastBuildDate>
-    <atom:link href="https://www.ekalavyastories.co.in/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ML 1</title>
-      <link>https://www.ekalavyastories.co.in/ml/ml-1/</link>
-      <pubDate>Mon, 10 Jul 2017 10:58:08 -0400</pubDate>
-      <guid>https://www.ekalavyastories.co.in/ml/ml-1/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 10 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://www.ekalavyastories.co.in/tags/system-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>System Design Post 2</title>
       <link>https://www.ekalavyastories.co.in/sd/sd-2/</link>
@@ -28,34 +21,6 @@
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <guid>https://www.ekalavyastories.co.in/sd/sd-1/</guid>
       <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
-    </item>
-    <item>
-      <title>Algorithim</title>
-      <link>https://www.ekalavyastories.co.in/algo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ekalavyastories.co.in/algo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ML 2</title>
-      <link>https://www.ekalavyastories.co.in/ml/ml-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ekalavyastories.co.in/ml/ml-2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ML 2</title>
-      <link>https://www.ekalavyastories.co.in/ml/ml-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ekalavyastories.co.in/ml/ml-3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Statistics</title>
-      <link>https://www.ekalavyastories.co.in/stat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ekalavyastories.co.in/stat/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
